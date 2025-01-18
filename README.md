@@ -1,8 +1,3 @@
-# Maximus SPA Vue
-
-## What is Maximus SPA Vue?
-Maximus SPA Vue is a starter kit for Vue.js 3 Single Page Application (SPA) https://github.com/Maxim-us/Maximus-SPA-Vue
-
 #### Features:
 - Registration
 - Email verification
